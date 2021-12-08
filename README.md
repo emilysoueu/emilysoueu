@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 -  :robot: Desenvolvendo pesquisas e software com ênfase em Sistemas de Recomendação utilizando Deep Learning e Redes Neurais em Ambientes Virtuais de Aprendizagem (AVAs). 
 - :octocat: Criando tecnologia para elevar as pessoas e construir comunidade.  
 - :star: Nas horas vagas costumo melhorar minhas habilidades de ✨ Desenvolvimento Web.✨
-- 💼 Algum projeto que eu possa contribuir? Fico feliz em ajudar :relaxed: Entre em contato via e-mail. 
+- 💼 Dúvidas sobre algum projetou pessoal ou repositório? Entre em contato via e-mail. :relaxed: Fico feliz em ajudar 
 	- emily.costa@darti.ufma.br. 
 
 ## 
