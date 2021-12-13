@@ -110,6 +110,15 @@ src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.
 <code><img height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png"></code>
 <!--CSS-->
 <code><img height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"></code>
+<!--BOOTSTRAP-->
+<code><img height="40" src="https://www.kindpng.com/picc/m/27-278320_bootstrap-logo-logo-png-bootstrap-logo-transparent-png.png"></code>
+<!--PHP-->
+<code><img height="40" src="https://w7.pngwing.com/pngs/779/126/png-transparent-php-laravel-computer-icons-application-programming-interface-zabbix-php-logo-text-logo-programming-language.png"></code>
+<!--LARAVEL-->
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png"></code>
+<!--WORDPRESS-->
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"></code>
+
 
 <!--
 </p>
