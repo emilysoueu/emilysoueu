@@ -116,12 +116,6 @@ src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.
 <code><img height="40" src="https://w7.pngwing.com/pngs/779/126/png-transparent-php-laravel-computer-icons-application-programming-interface-zabbix-php-logo-text-logo-programming-language.png"></code>
 <!--LARAVEL-->
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png"></code>
-<!--NODEJS-->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<!--VUE-->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<!--INERTIA JS-->
-<code><img height="40" src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4"></code>
 <!--WORDPRESS-->
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"></code>
 
@@ -129,6 +123,12 @@ src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.
 
 </p>
 <!-- 
+<!--NODEJS-->
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<!--VUE-->
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<!--INERTIA JS-->
+<code><img height="40" src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4"></code>
 <code><img height="40" src="https://www.quintagroup.com/blog/blog-images/hero.png/@@images/851dccad-fdc3-4211-a791-50654c2357eb.png"></code>
 <code><img height="40" src="https://www.kindpng.com/picc/m/100-1002417_love2d-logo-svg-hd-png-download.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
