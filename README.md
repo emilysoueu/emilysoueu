@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/emily-costa-1951591a0/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!--LATTES-->
+<!--LATTES
 <a href="http://lattes.cnpq.br/4253412015055612">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/image.png" />
 </a>
-
+-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=emilysoueu/emilysoueu)
 
