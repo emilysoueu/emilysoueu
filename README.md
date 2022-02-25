@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-a![](https://visitor-badge.glitch.me/badge?page_id=emilysoueu/emilysoueu)
+![](https://visitor-badge.glitch.me/badge?page_id=emilysoueu/emilysoueu)
 
 <!--LATTES
 <a href="http://lattes.cnpq.br/4253412015055612">
