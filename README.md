@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </a>
 <!--SPOTIFY-->
 <a href="https://open.spotify.com/user/ejcs.ggg">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fspotify-logo-png&psig=AOvVaw3SgllCiuSQxnKOsCAvmVgi&ust=1648648446949000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICKl5y86_YCFQAAAAAdAAAAABAD" />
 </a>
 <!--LINKEDIN-->
 <a href="https://www.linkedin.com/in/emily-costa-1951591a0/">
