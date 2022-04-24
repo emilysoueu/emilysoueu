@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/emilysoueu/">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" />
 </a>
-<!--SPOTIFY
+<!--SPOTIFY-->
 <a href="https://open.spotify.com/user/ejcs.ggg">
-  <img align="left" alt="22px" width="22px" src="<a href="https://www.freepnglogos.com/pics/spotify-logo-png">Spotify Logo from freepnglogos.com</a>" />
-</a>-->
+  <img align="left" alt="22px" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-photo-of-logo-16.png"/>
+</a>
 <!--LINKEDIN-->
 <a href="https://www.linkedin.com/in/emily-costa-1951591a0/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
