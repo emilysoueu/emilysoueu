@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="left" alt="22px" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-photo-of-logo-16.png"/>
 </a>
 <!--LINKEDIN-->
-<a href="https://www.linkedin.com/in/emilysoueu/?original_referer=">
+<a href="www.linkedin.com/in/emilysoueu">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
