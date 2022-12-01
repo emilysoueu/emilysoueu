@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <!--INSTAGRAM-->
-<a href="https://www.instagram.com/emilysoueu.codes/">
+<a href="https://www.instagram.com/emilyscodes/">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" />
 </a>
 <!--SPOTIFY-->
