@@ -147,7 +147,7 @@ https://ecosta-developer-edition.na213.force.com/portfolio/s
 <a href="https://github.com/sponsors/M0nica"><img align="left" width="400" height="200" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif"></a>
 <p padding-left="10px">
 <ul > 🌻 Amo viajar e ficar em contato com a natureza. </ul> 
-<ul>  🍲 Um dos meus hobbies é conhecer culinárias exóticas  </ul> 
+<ul>  🍲 Um dos meus hobbies é conhecer culinárias exóticas.  </ul> 
 <ul>  📚 Gosto muito de ler livros . </ul> 
 <ul>  😊 Café Sempre.</ul> 
 </p>
