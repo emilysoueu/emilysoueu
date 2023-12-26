@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-- 🎓 Sou Bacharel em Ciência da Computação na Universidade Federal do Maranhão- [UFMA ](https://portais.ufma.br/PortalUfma/). 
+- 🎓 Bacharel em Ciência da Computação na Universidade Federal do Maranhão- [UFMA ](https://portais.ufma.br/PortalUfma/). 
 -  👨‍💻  Atualmente estou em Iniciação Científica no Data Analytics & Artificial Intelligence Laboratory- [DARTi Lab](http://www.darti.ufma.br/). 
 -  :robot: Desenvolvendo pesquisas e software com ênfase em Sistemas de Recomendação utilizando Deep Learning e Redes Neurais em Ambientes Virtuais de Aprendizagem (AVAs). 
 - :octocat: Criando tecnologia para elevar as pessoas e construir comunidade.  
