@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 -  👨‍💻  Atualmente estou em Iniciação Científica no Data Analytics & Artificial Intelligence Laboratory- [DARTi Lab](http://www.darti.ufma.br/). 
 -  :robot: Desenvolvendo pesquisas e software com ênfase em Sistemas de Recomendação utilizando Deep Learning e Redes Neurais em Ambientes Virtuais de Aprendizagem (AVAs). 
 - :octocat: Criando tecnologia para elevar as pessoas e construir comunidade.  
-- :star: Nas horas vagas costumo melhorar minhas habilidades de ✨ Salesforce ✨
+- :star: Nas horas vagas costumo melhorar minhas habilidades de ✨ Machine Learning ✨
 - 💼 Dúvidas sobre algum projetou pessoal ou repositório? Entre em contato via e-mail. :relaxed: Fico feliz em ajudar 
 	- emily.costa@darti.ufma.br. 
 
