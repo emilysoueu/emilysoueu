@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Emily <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  🙋🏻‍♀️
 
 
-<!--INSTAGRAM-->
-<a href="https://www.instagram.com/emilycosta_cs/">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" />
-</a>
+
 <!--SPOTIFY-->
 <a href="https://open.spotify.com/user/ejcs.ggg">
   <img align="left" alt="22px" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-photo-of-logo-16.png"/>
