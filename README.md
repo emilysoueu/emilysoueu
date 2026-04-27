@@ -4,15 +4,20 @@
 ### QA Automation Engineer • Quality Advocate 🚀
 
 <!-- REDES -->
-<a href="https://www.linkedin.com/in/emilysoueu/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+- Onde me Encontrar: 
+<p>
+  <a href="https://www.linkedin.com/in/emilysoueu">
+    <img width="20"
+         alt="LinkedIn"
+         src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"/>
+    
+  </a>
 
 <a href="mailto:emily.costa@darti.ufma.br">
   <img align="left" alt="Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
 </a>
 
-<br/><br/>
+</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=emilysoueu/emilysoueu)
 
