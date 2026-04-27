@@ -1,150 +1,120 @@
 ### Hi there 👋
 
-<!--
-**emilysoueu/emilysoueu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Emily <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 🙋🏻‍♀️  
+### QA Automation Engineer • Quality Advocate 🚀
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  
-## Hi, I'm Emily <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  🙋🏻‍♀️
-
-
-
-<!--SPOTIFY-->
-<a href="https://open.spotify.com/user/ejcs.ggg">
-  <img align="left" alt="22px" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-photo-of-logo-16.png"/>
-</a>
-<!--LINKEDIN
+<!-- REDES -->
 <a href="https://www.linkedin.com/in/emilysoueu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
+  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="mailto:emily.costa@darti.ufma.br">
+  <img align="left" alt="Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+</a>
+
+<br/><br/>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=emilysoueu/emilysoueu)
 
-<!--LATTES
-<a href="http://lattes.cnpq.br/4253412015055612">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://www.ufpb.br/ppgs/contents/imagens/logo-lattes.png/@@images/image.png" />
-</a>
--->
+---
 
-
-
-<br />
+## 💼 Sobre mim
 
 <p align="left">
 
-- 🎓 Bacharel em Ciência da Computação na Universidade Federal do Maranhão- [UFMA ](https://portais.ufma.br/PortalUfma/). 
--  👨‍💻  Atualmente estou em Iniciação Científica no Data Analytics & Artificial Intelligence Laboratory- [DARTi Lab](http://www.darti.ufma.br/). 
--  :robot: Desenvolvendo pesquisas e software com ênfase em Sistemas de Recomendação utilizando Deep Learning e Redes Neurais em Ambientes Virtuais de Aprendizagem (AVAs). 
-- :octocat: Criando tecnologia para elevar as pessoas e construir comunidade.  
-- :star: Nas horas vagas costumo melhorar minhas habilidades de ✨ Machine Learning ✨
-- 💼 Dúvidas sobre algum projetou pessoal ou repositório? Entre em contato via e-mail. :relaxed: Fico feliz em ajudar 
-	- emily.costa@darti.ufma.br. 
+- 🎓 Bacharel em Ciência da Computação – Universidade Federal do Maranhão ([UFMA](https://portais.ufma.br/PortalUfma/))  
+- 🧪 QA Engineer Automation com foco em **qualidade de software, testes automatizados e melhoria contínua**
+- 🤖 Experiência com **automação de testes E2E, API e testes funcionais**
+- 🔍 Atuação forte em **estratégia de testes, garantia da qualidade e prevenção de bugs**
+- 🚀 Defensora de **shift-left testing**, boas práticas e cultura de qualidade
+- 💬 Posso te ajudar com dúvidas sobre **testes, automação, pipelines CI/CD e boas práticas de QA**
+- 📫 Contato: **emily.costa@darti.ufma.br**
 
-## 
+</p>
 
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/emilysoueu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilysoueu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilysoueu&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilysoueu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilysoueu&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
-## 
+---
 
-### Áreas de Interesse :round_pushpin:
+## 🧠 Áreas de Atuação e Interesse
 
-- Machine Learning 
-- Neural Networks
-- Natural Language Processing
-- Recommender System
-- Data analysis
-- Business Intelligence
+- Testes Automatizados (E2E, API, Funcionais)
+- Qualidade de Software (QA)
+- Testes Exploratórios
+- Testes de Regressão
+- Integração Contínua (CI/CD)
+- BDD & TDD
+- Observabilidade e métricas de qualidade
 
+---
 
-## 
-
-
-### Tools and Environments 🔧:gear:
+## 🛠️ Tools & Environments
 
 <p>
-<img src="https://img.shields.io/badge/OS-Windows-organge?logo=Windows">
-<img src="https://img.shields.io/badge/OS-Linux-organge?logo=Linux">
-<img src="https://img.shields.io/badge/OS-Chrome-organge?logo=Chrome">
-<img src="https://img.shields.io/badge/Editor-VSCode-green?logo=Visual%20Studio%20Code">
-<img src="https://img.shields.io/badge/BI-PowerBI-yellow?logo=PowerBI">
-<img src="https://img.shields.io/badge/Notebook-Colaboratory-yellow">
-<img src="https://img.shields.io/badge/Notebook-Jupyter-yellow?logo=Jupyter">
+<img src="https://img.shields.io/badge/OS-Windows-orange?logo=windows">
+<img src="https://img.shields.io/badge/OS-Linux-orange?logo=linux">
+<img src="https://img.shields.io/badge/Editor-VSCode-green?logo=visualstudiocode">
 
-<img src="https://img.shields.io/badge/Library-scikit-red">
-<img src="https://img.shields.io/badge/Library-Tensorflow-red?logo=Tensorflow">
-<img src="https://img.shields.io/badge/Library-Pandas-red?logo=Pandas">
-<img src="https://img.shields.io/badge/DataBase-MySQL-blue?logo=MySQL">
-<img src="https://img.shields.io/badge/Wiki-Wiki.js-blue?logo=Wiki.js">
+<img src="https://img.shields.io/badge/Test-Cypress-brightgreen?logo=cypress">
+<img src="https://img.shields.io/badge/Test-Selenium-green?logo=selenium">
+<img src="https://img.shields.io/badge/Test-Playwright-blue?logo=playwright">
+<img src="https://img.shields.io/badge/API-Postman-orange?logo=postman">
+
+<img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-black?logo=githubactions">
+<img src="https://img.shields.io/badge/CI/CD-Jenkins-red?logo=jenkins">
+
+<img src="https://img.shields.io/badge/Docs-Notion-black?logo=notion">
+<img src="https://img.shields.io/badge/Agile-Scrum-blue?logo=scrumalliance">
 </p>
 
+---
 
-### Languages  and Frameworks :computer:
+## 💻 Languages & Frameworks
+
 <p>
-<!--LUA-->
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png"></code>
-<!--C-->
-<code><img height="40" src="https://www.kindpng.com/picc/m/403-4039227_c-language-logo-png-transparent-png.png"></code>
-<!--C++-->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<!--PYTHON-->
-<code><img height="40" 
-src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
-<!--JAVASCRIPT-->
+<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
-<!--HTML-->
-<code><img height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png"></code>
-<!--CSS-->
-<code><img height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"></code>
-<!--BOOTSTRAP-->
-<code><img height="40" src="https://www.kindpng.com/picc/m/27-278320_bootstrap-logo-logo-png-bootstrap-logo-transparent-png.png"></code>
-<!--Materialize-->
-<code><img height="40" src="https://www.pngitem.com/pimgs/m/198-1985069_materialize-logo-materialize-hd-png-download.png"></code>
-<!--Figma-->
-<code><img height="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code>
-<!--PHP-->
-<code><img height="40" src="https://w7.pngwing.com/pngs/779/126/png-transparent-php-laravel-computer-icons-application-programming-interface-zabbix-php-logo-text-logo-programming-language.png"></code>
-<!--LARAVEL-->
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/50px-Laravel.svg.png"></code>
-<!--WORDPRESS-->
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"></code>
-
-
-<!--
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 </p>
-<code><img height="40" src="https://avatars.githubusercontent.com/u/47703742?s=280&v=4"></code>
-<code><img height="40" src="https://www.quintagroup.com/blog/blog-images/hero.png/@@images/851dccad-fdc3-4211-a791-50654c2357eb.png"></code>
-<code><img height="40" src="https://www.kindpng.com/picc/m/100-1002417_love2d-logo-svg-hd-png-download.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
- ## Meu WEBsite
-https://ecosta-developer-edition.na213.force.com/portfolio/s
--->
-</a>
+---
+
+## ✅ Um pouco mais sobre mim 🦄
+
+<table>
+  <tr>
+    <td width="420">
+      <img
+        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHg3NDFuNmc0Nzh6d2FqYmhscHl2MzY4Nzd6aHA5d3BiMGk5dWhjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jUckyQVjuHNx9vXUtv/giphy.gif"
+        width="380"
+        alt="Gif sobre leitura e café" />
+    </td>
+    <td>
+      <h3>✅ Um pouco mais sobre mim 🦄</h3>
+
+     
+
+- 🌻 Amo viajar e estar em contato com a natureza  
+- ☕ Café é essencial para qualquer ciclo de testes  
+- 📚 Aprendo continuamente sobre tecnologia e qualidade  
+- 🐞 Encontrar bugs antes do usuário é minha missão  
+
+    </td>
+
+  </tr>
+</table>
 
 
-## Um pouco mais sobre mim  🦄
-<a href="https://github.com/sponsors/M0nica"><img align="left" width="400" height="200" src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif"></a>
-<p padding-left="10px">
-<ul > 🌻 Amo viajar e ficar em contato com a natureza. </ul> 
-<ul>  🍲 Um dos meus hobbies é conhecer culinárias exóticas.  </ul> 
-<ul>  📚 Gosto muito de ler livros . </ul> 
-<ul>  😊 Café Sempre.</ul> 
-</p>
+---
